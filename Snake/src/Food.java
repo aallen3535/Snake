@@ -1,5 +1,5 @@
 
-\//This project was built with the assistance of a tutorial. I do not claim ownership of all code
+//This project was built with the assistance of a tutorial. I do not claim ownership of all code
 
 import java.awt.Rectangle;
 
